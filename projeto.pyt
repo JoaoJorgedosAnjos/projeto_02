@@ -1,5 +1,5 @@
-from assets.conto_nosso_povo_cap_1_ptbr_ticuna import portugues # type: ignore
-from assets.conto_nosso_povo_cap_1_ptbr_ticuna import ticuna # type: ignore
+from assets.conto_nosso_povo_cap_1_ptbr_ticuna import portugues 
+from assets.conto_nosso_povo_cap_1_ptbr_ticuna import ticuna 
 
 def construir_dicionario_traducao(conto_portugues,conto_ticuna):
     conto_portugues = portugues.split('\n')
