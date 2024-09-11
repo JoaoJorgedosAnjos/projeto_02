@@ -2,8 +2,8 @@ from assets.conto_nosso_povo_cap_1_ptbr_ticuna import portugues
 from assets.conto_nosso_povo_cap_1_ptbr_ticuna import ticuna 
 
 def construir_dicionario_traducao(conto_portugues,conto_ticuna):
-    conto_portugues = portugues.split('\n')
-    conto_ticuna = ticuna.split('\n')
+    conto_portugues = conto_portugues.split('\n')
+    conto_ticuna = conto_ticuna.split('\n')
     dicionario_portugues_ticuna = {}
     for i in range(len(conto_ticuna)):
         if i:
@@ -39,5 +39,5 @@ def formatar_texto_json(texto_portugues, texto_ticuna):
     tamanho_inicial_dic = tamanho_dicionario
     combinar_textos_recursivamente(tamanho_dicionario, dicionario_portugues_ticuna,tamanho_inicial_dic)
 
-formatar_texto_json(portugues, ticuna)
+formatar_texto_json(portugues,ticuna)
 
