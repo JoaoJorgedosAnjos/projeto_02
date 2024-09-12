@@ -31,7 +31,7 @@ ticuna = """
 03 Norü ügü tchiga
 04 Nüma ga Ngutapa ga naãne nama'ã ya ĩĩtchicü,
 05 rü wü'iva na yae
-06 erü nüma ga Baia rü Ngutapa tanü'ǖ ni'ĩ
+06 erü nüma ga Baia rü Ngutapa ta_nü'ǖ ni'ĩ
 07 natü i Tonetü
 08 Erü yeguma ãrü naãenecü rü wü'i i ngewaca i ya eaneǖrǖ'ǖ ni'ĩ yerü natauma ga nhãtü rü yema nawa nayemagüǖ ricatama ni'ĩ.
 09 marü nhurema ya taunecǖ na yemagü

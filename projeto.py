@@ -40,4 +40,3 @@ def formatar_texto_json(texto_portugues, texto_ticuna):
     combinar_textos_recursivamente(tamanho_dicionario, dicionario_portugues_ticuna,tamanho_inicial_dic)
 
 formatar_texto_json(portugues,ticuna)
-
